@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9559d677-584c-4b7d-b158-3fc03400479f" name="Changes" comment="controller test">
-      <change afterPath="$PROJECT_DIR$/Course Rest Api/src/main/java/com/brutech/courserestapi/entity/CourseGpa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Rest Api/src/main/java/com/brutech/courserestapi/entity/HighCourseGpa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Rest Api/src/main/java/com/brutech/courserestapi/entity/LowCourseGpa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course Rest Api/src/main/java/com/brutech/courserestapi/entity/MediumCourseGpa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9559d677-584c-4b7d-b158-3fc03400479f" name="Changes" comment="Grade class created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +57,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -91,7 +86,7 @@
       <workItem from="1697741095515" duration="187000" />
       <workItem from="1697741343383" duration="51000" />
       <workItem from="1697741438128" duration="1256000" />
-      <workItem from="1697747378172" duration="2108000" />
+      <workItem from="1697747378172" duration="2852000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -181,7 +176,55 @@
       <option name="project" value="LOCAL" />
       <updated>1697750207321</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="init">
+      <option name="closed" value="true" />
+      <created>1697750693627</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697750693627</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Course GPA">
+      <option name="closed" value="true" />
+      <created>1697750712851</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697750712851</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Course comp created">
+      <option name="closed" value="true" />
+      <created>1697750724844</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697750724844</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Course controller comp created">
+      <option name="closed" value="true" />
+      <created>1697750735718</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697750735718</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Grade class created">
+      <option name="closed" value="true" />
+      <created>1697751069356</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697751069356</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Grade class created">
+      <option name="closed" value="true" />
+      <created>1697751092480</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1697751092480</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,10 +269,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init" />
     <MESSAGE value="server port" />
     <MESSAGE value="controller test" />
-    <option name="LAST_COMMIT_MESSAGE" value="controller test" />
+    <MESSAGE value="init" />
+    <MESSAGE value="Course GPA" />
+    <MESSAGE value="Course comp created" />
+    <MESSAGE value="Course controller comp created" />
+    <MESSAGE value="Grade class created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grade class created" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
