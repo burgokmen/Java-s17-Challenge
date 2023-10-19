@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9559d677-584c-4b7d-b158-3fc03400479f" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/Course Rest Api/src/main/java/com/brutech/courserestapi/controller/Controller.java" afterDir="false" />
+    <list default="true" id="9559d677-584c-4b7d-b158-3fc03400479f" name="Changes" comment="controller test">
+      <change afterPath="$PROJECT_DIR$/Course Rest Api/src/main/java/com/brutech/courserestapi/entity/CourseGpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Rest Api/src/main/java/com/brutech/courserestapi/entity/HighCourseGpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Rest Api/src/main/java/com/brutech/courserestapi/entity/LowCourseGpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course Rest Api/src/main/java/com/brutech/courserestapi/entity/MediumCourseGpa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course Rest Api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Course Rest Api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course Rest Api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Course Rest Api/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,6 +51,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -85,7 +91,7 @@
       <workItem from="1697741095515" duration="187000" />
       <workItem from="1697741343383" duration="51000" />
       <workItem from="1697741438128" duration="1256000" />
-      <workItem from="1697747378172" duration="1807000" />
+      <workItem from="1697747378172" duration="2108000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -143,7 +149,39 @@
       <option name="project" value="LOCAL" />
       <updated>1697748004040</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="init">
+      <option name="closed" value="true" />
+      <created>1697750168336</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697750168336</updated>
+    </task>
+    <task id="LOCAL-00009" summary="server port">
+      <option name="closed" value="true" />
+      <created>1697750190094</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697750190094</updated>
+    </task>
+    <task id="LOCAL-00010" summary="controller test">
+      <option name="closed" value="true" />
+      <created>1697750199040</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697750199040</updated>
+    </task>
+    <task id="LOCAL-00011" summary="controller test">
+      <option name="closed" value="true" />
+      <created>1697750207321</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697750207321</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +227,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="server port" />
+    <MESSAGE value="controller test" />
+    <option name="LAST_COMMIT_MESSAGE" value="controller test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
